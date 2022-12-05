@@ -1,0 +1,6 @@
+Ivan Ivanov 5
+Petr Petrov 4
+Semen Semenov 4
+Ilya Zaycev 3
+Fedor Fedorov 5
+
